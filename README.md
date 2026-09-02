@@ -41,3 +41,5 @@ The application allows users to create, read, update, and delete tasks through a
 - VS Code
 
 ---
+
+Author Shaikh Shahnawaz
