@@ -1,0 +1,47 @@
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+}
+
+.container {
+    width: 600px;
+    margin: 50px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    background: white;
+    padding: 20px;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+input {
+    flex: 1;
+    padding: 10px;
+}
+
+select {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.task {
+    background: white;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.task button {
+    background: #222;
+    color: white;
+    border: none;
+}
